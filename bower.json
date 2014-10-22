@@ -11,6 +11,27 @@
     "paper-elements": "Polymer/paper-elements#master",
     "paper-calculator": "Polymer/paper-calculator#master",
     "topeka-elements": "Polymer/topeka-elements#master",
-    "more-elements": "Polymer/more-elements#master"
+    "more-elements": "Polymer/more-elements#>=0.4.0 <1.0.0",
+    "thelma-all": "https://github.com/thelmanews/thelma-all.git",
+    "th-chart-editor": "https://github.com/thelmanews/th-chart-editor.git",
+    "th-connector": "https://github.com/thelmanews/th-connector.git",
+    "th-enigma": "https://github.com/thelmanews/th-enigma.git",
+    "th-chart-data-filter": "https://github.com/thelmanews/th-chart-data-filter.git"
+  },
+  "resolutions": {
+    "platform": "0.4.2",
+    "polymer": "0.4.2",
+    "x-meta": ">=0.4.0 <1.0.0",
+    "code-mirror": ">=0.4.0 <1.0.0",
+    "core-selector": "~0.4.1",
+    "core-input": "~0.4.1",
+    "core-collapse": "~0.4.1",
+    "core-ajax": ">=0.4.0 <1.0.0",
+    "google-map": "~0.3.1",
+    "core-component-page": "^0.4.0",
+    "core-selection": ">=0.3.0 <1.0.0",
+    "core-shared-lib": "~0.4.2",
+    "core-style": "0.4.2",
+    "web-animations-js": "6a1c45473f"
   }
 }

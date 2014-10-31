@@ -2,7 +2,7 @@
   "name": "designer",
   "private": true,
   "dependencies": {
-    "platform": "Polymer/platform#master",
+    "platform": "Polymer/platform#0.4.2",
     "code-mirror": "PolymerLabs/code-mirror#master",
     "github-elements": "PolymerLabs/github-elements#master",
     "x-meta": "PolymerLabs/x-meta#master",
@@ -16,6 +16,7 @@
     "th-chart-editor": "https://github.com/thelmanews/th-chart-editor.git",
     "th-connector": "https://github.com/thelmanews/th-connector.git",
     "th-enigma": "https://github.com/thelmanews/th-enigma.git",
+    "th-geocoder": "https://github.com/thelmanews/th-geocoder.git",
     "th-chart-data-filter": "https://github.com/thelmanews/th-chart-data-filter.git"
   },
   "resolutions": {
